@@ -6,4 +6,4 @@ At **Eagle Solutions**, I’ve designed and deployed more than **10+ dynamic web
 
 I’m not just a developer—I’m a **problem-solver, a strategist, and a digital innovator**. Whether it’s building scalable WordPress solutions, optimizing site performance, or mentoring junior developers, I’m always driven by one goal: **delivering excellence that exceeds expectations**.
 
-💡 **Let’s create something remarkable!** If you’re looking for a dedicated WordPress expert to **elevate your digital presence**, let’s connect. Reach out to me on [LinkedIn]([url](https://www.linkedin.com/in/muzaffar-dev/) or explore my portfolio at [themuzaffar-pf.netlify.app](themuzaffar-pf.netlify.app).
+💡 **Let’s create something remarkable!** If you’re looking for a dedicated WordPress expert to **elevate your digital presence**, let’s connect. Reach out to me on [LinkedIn]([url](https://www.linkedin.com/in/muzaffar-dev/)) or explore my portfolio at [themuzaffar-pf.netlify.app](themuzaffar-pf.netlify.app).
